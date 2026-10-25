@@ -1,5 +1,5 @@
 # Final-Project-Template
-<!-- Edit the title above with your project title -->
+# Economic Development, Life Expectancy, and CO₂ Emissions
 
 ## Project Overview
 
